@@ -1,1 +1,6 @@
 c:\users\fabio\documents\visual studio 2013\Projects\Livraria\Livraria\bin\Debug\Livraria.exe.config
+C:\Users\Fabio\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Debug\Livraria.exe
+C:\Users\Fabio\Documents\Visual Studio 2013\Projects\Livraria\Livraria\bin\Debug\Livraria.pdb
+C:\Users\Fabio\Documents\Visual Studio 2013\Projects\Livraria\Livraria\obj\Debug\Livraria.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Documents\Visual Studio 2013\Projects\Livraria\Livraria\obj\Debug\Livraria.exe
+C:\Users\Fabio\Documents\Visual Studio 2013\Projects\Livraria\Livraria\obj\Debug\Livraria.pdb
