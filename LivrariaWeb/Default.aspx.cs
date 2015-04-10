@@ -11,7 +11,19 @@ namespace LivrariaWeb
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            mensagem.InnerHtml = "Olá do C#";
+            if (IsPostBack)
+            {
+                mensagem.InnerHtml = "Olá do C# if do IsPostBack";
+            }
+            else
+            {
+                mensagem.InnerHtml = "Olá do C# else do IsPostBack";
+            }
+        }
+
+        protected void btnEnviar_Click(object sender, EventArgs e)
+        {
+            mensagem.InnerHtml = "Olá " + txtNome.Text + "! Vamos para o Evento!";
         }
     }
 }
