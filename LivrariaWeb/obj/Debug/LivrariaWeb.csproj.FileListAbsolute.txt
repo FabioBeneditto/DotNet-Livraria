@@ -1,0 +1,6 @@
+C:\Users\Fabio\documents\visual studio 2013\Projects\Livraria\LivrariaWeb\bin\LivrariaWeb.dll.config
+C:\Users\Fabio\documents\visual studio 2013\Projects\Livraria\LivrariaWeb\bin\LivrariaWeb.dll
+C:\Users\Fabio\documents\visual studio 2013\Projects\Livraria\LivrariaWeb\bin\LivrariaWeb.pdb
+C:\Users\Fabio\documents\visual studio 2013\Projects\Livraria\LivrariaWeb\obj\Debug\LivrariaWeb.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\documents\visual studio 2013\Projects\Livraria\LivrariaWeb\obj\Debug\LivrariaWeb.dll
+C:\Users\Fabio\documents\visual studio 2013\Projects\Livraria\LivrariaWeb\obj\Debug\LivrariaWeb.pdb
